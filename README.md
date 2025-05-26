@@ -1,9 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://yourdomain.com/path-to-banner.jpg" alt="Company Banner" width="100%" />
+  <img src="Linkedin Banner.jpg" alt="Company Banner" width="100%" />
 </p>
-
-<h1 align="center">✦ We Build Visually Stunning Websites</h1>
 
 ## 🟣 Projects
 
